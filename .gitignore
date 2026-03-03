@@ -12,7 +12,7 @@ env/
 # data/snapshot.json
 # data/events.json
 # data/meta.json
-# data/charts/
+data/charts/
 
 # IDE
 .idea/
